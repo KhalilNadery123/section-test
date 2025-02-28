@@ -1,0 +1,26 @@
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ -c <FILENAME>=<submit>
+bash: syntax error near unexpected token `newline'
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ ~ user$ cd my-repo
+bash: /home/codespace: Is a directory
+sh 
+my_repo user$ find-files-today.sh 
+my_repo user$ cat list.txt 
+qn-1/submit.txt
+qn-1/submit.empty
+qn-1/submit.txt
+qn-1/submit.empty@KhalilNadery123 ➜ /workspaces/section-test (main) $ my_repo user$ find-files-today.sh 
+bash: my_repo: command not found
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ my_repo user$ find-files-today.sh 
+bash: my_repo: command not found
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ my_repo user$ cat list.txt 
+bash: my_repo: command not found
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ qn-1/submit.txt
+bash: qn-1/submit.txt: Not a directory
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ qn-1/submit.empty
+bash: qn-1/submit.empty: Not a directory
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ qn-1/submit.txt
+bash: qn-1/submit.txt: Not a directory
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ qn-1/submit.empty
+bash: qn-1/submit.empty: Not a directory
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ nano FILENAME
+@KhalilNadery123 ➜ /workspaces/section-test (main) $ 
